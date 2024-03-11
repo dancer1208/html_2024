@@ -1,0 +1,7 @@
+1. Make a webpage titled "My Shop".
+2. Inside the page, there are header, main area with 4 sections, and footer.
+3. The header consists 3 nav links.
+4. In the main area, each section composed of photos and contents about it.
+5. Make each photo half the width.
+6. If there are few photos, make them evan separated.
+7. Make a web resposive by various scale brousers.
